@@ -1,0 +1,5 @@
+IPProto,SrcIP,SrcPort,DstIp,DstPort,UID,App,Proto,Status,Info,BytesSent,BytesRcvd,PktsSent,PktsRcvd,FirstSeen,LastSeen
+17,10.215.173.1,54098,10.215.173.2,53,10215,Ethereum Miner,DNS,Closed,microtechapp.com,62,78,1,1,1706992570138,1706992571095
+6,10.215.173.1,50266,81.177.174.12,80,10215,Ethereum Miner,HTTP,Error,microtechapp.com,60,40,1,1,1706992571120,1706992571136
+6,10.215.173.1,50264,81.177.174.12,80,10215,Ethereum Miner,HTTP,Error,microtechapp.com,60,40,1,1,1706992571126,1706992571136
+6,10.215.173.1,50268,81.177.174.12,80,10215,Ethereum Miner,HTTP,Error,microtechapp.com,60,40,1,1,1706992571133,1706992571137
